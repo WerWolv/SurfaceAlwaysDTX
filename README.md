@@ -1,6 +1,6 @@
 # SurfaceAlwaysDTX
 
-![ScreenShot](https://puu.sh/GcC63/da2dbd12db.png)
+![ScreenShot](https://puu.sh/GcWJm/1009226bad.png)
 
 A super simple, open source reimplementation of Microsoft's SurfaceDTX tool found on the Surface Book 2.
 
